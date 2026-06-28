@@ -1,0 +1,10 @@
+.openapi-generator-ignore
+README.md
+pom.xml
+src/main/java/com/aimyapp/api/ApiUtil.java
+src/main/java/com/aimyapp/api/DelayApi.java
+src/main/java/com/aimyapp/api/HelloApi.java
+src/main/java/com/aimyapp/model/DelayNotifyRequest.java
+src/main/java/com/aimyapp/model/DelayNotifyResponse.java
+src/main/java/com/aimyapp/model/ErrorResponse.java
+src/main/java/com/aimyapp/model/HelloResponse.java

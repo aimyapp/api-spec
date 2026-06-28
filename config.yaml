@@ -1,0 +1,8 @@
+interfaceOnly: true
+skipDefaultInterface: true
+useSpringBoot3: true
+
+apiPackage: com.aimyapp.api
+modelPackage: com.aimyapp.model
+
+useTags: true
